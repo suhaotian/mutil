@@ -1,0 +1,23 @@
+{
+  "name": "mutil-npm",
+  "version": "0.0.1",
+  "description": "类 Vue.js 的 util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaotian/mutil.git"
+  },
+  "keywords": [
+    "util",
+    "JavaScript"
+  ],
+  "author": "suhaotian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhaotian/mutil/issues"
+  },
+  "homepage": "https://github.com/suhaotian/mutil#readme"
+}
