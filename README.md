@@ -23,3 +23,8 @@
 	}
 	_.on(window, 'scroll', _.throttle(func, 250))
 ```
+
+TODO: 发布到 npm，以后使用只需要 
+```js
+	npm i mutil-npm // 嗯，我的包名后面都带有后缀 '-npm'，防止冲突
+```
